@@ -1,0 +1,5 @@
+com/beusable/hotel/HotelApplication.class
+com/beusable/hotel/controller/OccupancyController.class
+com/beusable/hotel/model/OccupancyRequest.class
+com/beusable/hotel/model/OccupancyResponse.class
+com/beusable/hotel/service/OccupancyService.class
